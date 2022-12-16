@@ -1,0 +1,33 @@
+﻿{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"used-plugins": [
+		"Audio",
+		"Button",
+		"Keyboard",
+		"Mouse",
+		"Multiplayer",
+		"NodeWebkit",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"Tilemap",
+		"Touch",
+		"progressbar"
+	],
+	"used-behaviors": [
+		"Anchor",
+		"EightDir",
+		"Platform",
+		"solid"
+	]
+}
